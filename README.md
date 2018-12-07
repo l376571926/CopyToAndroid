@@ -1,0 +1,2 @@
+# CopyToAndroid
+java项目，用adb命令复制windows上的文件夹到安卓手机上
