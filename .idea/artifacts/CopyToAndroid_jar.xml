@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CopyToAndroid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyToAndroid_jar</output-path>
+    <root id="archive" name="CopyToAndroid.jar">
+      <element id="module-output" name="CopyToAndroid" />
+    </root>
+  </artifact>
+</component>
